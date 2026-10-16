@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This project is a test of LLM capabilities. I take no credit for the work.** — Rakantor
+
+> Built by Claude (Opus 5.5) in Claude Code from [PROMPT.md](PROMPT.md) in a single run of about 50 minutes: about 13 minutes of planning, 14 of writing the code and 22 of testing it in a browser. A later session fixed cells overlapping during the 100k stress test.
+
+<br>
+
 # Nested Cells
 
 A browser prototype of a microorganism world made of living cells nested inside one another. Every cell holds a colony of smaller cells; zooming out reveals that the world you were looking at is the inside of a larger cell drifting among its neighbours. Zooming between levels is continuous, with no cuts or loading pauses.
